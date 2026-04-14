@@ -32,4 +32,4 @@ A random sample of images plotted with their corresponding true and predicted la
 
 1. Install dependencies with: `pip install -r requirements.txt`
 2. Download the images dataset from [Galaxy Zoo classification](https://www.kaggle.com/datasets/anjosut/galaxy-zoo-the-galaxy-challenge) and place them in the `Train_images` folder.
-3. Open `classifier.ipynb` and run the notebook.
+3. Open `classifier.ipynb` and run the notebook from start to finish. Afterwards, `predict_galaxy` can be run as many times as desired.
