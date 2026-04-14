@@ -1,0 +1,8 @@
+# dataset - Too big for GitHub
+Train_images/
+
+# jupyter notebook temporary files
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
